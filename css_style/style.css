@@ -4,8 +4,12 @@ body {
     font-size: 12px;
     color: #484F4F;
 }
-#menu1 {
+#menu1, #menu6 {
     background-image:url(../images/imagen.png);
+}
+
+#menu2, #menu3, #menu4, #menu5 {
+    background-image:url(../images/imagen2.png);
 }
 h1 {
     width: 40%;
