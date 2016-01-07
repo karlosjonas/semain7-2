@@ -34,6 +34,7 @@ h2 {
 .conteneur {
     width: 100%;
     max-width: 960px;
+    height:100px;
     padding: 10px;
     margin: 15px;
    
@@ -70,9 +71,8 @@ footer p{
     float: left;
     margin-left: 10px;
     margin: 50px 0px 0px 10px;
-    
-    
 }
+
 
 .map {
     width: 200%;
